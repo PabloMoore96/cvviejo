@@ -24,9 +24,8 @@ button{
     padding: 0px;
     display: flex;
     margin: auto;
-    width: 850px; 
+    width: 875px; 
 }
-
 .text{
     color: rgb(177, 202, 216);
     font-family: 'Lato', sans-serif;
@@ -60,8 +59,8 @@ button{
     flex: 1;
     margin: 75px;
     border-radius: 50%;
-    border-color: #222;
-    filter: drop-shadow(1px 1px 1px #222);
+    border-color: rgb(23, 23, 29);
+    filter: drop-shadow(1px 1px 1px rgb(23, 23, 29));
     height: 400px;
     align-items: flex-start;
     right: 200px;
@@ -133,4 +132,8 @@ h2{
     font-family: 'Lato', sans-serif;
     color: rgb(177, 202, 216);
     text-align: center;
+}
+
+.tx{
+    font-size: 20px;
 }
