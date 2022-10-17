@@ -137,3 +137,6 @@ h2{
 .tx{
     font-size: 20px;
 }
+#img-leng{
+    filter: opacity(20%);
+}
